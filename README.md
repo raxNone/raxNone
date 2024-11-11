@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raxNone
-- <a href = "https://www.notion.so/1186cd2f2d27809595f3f0ab5cdb3035" text = "notion"/>
+- <a href = "https://www.notion.so/1186cd2f2d27809595f3f0ab5cdb3035">notion</>
 - 👀 I’m interested in hacking
 
   
